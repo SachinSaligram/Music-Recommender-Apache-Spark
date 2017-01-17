@@ -7,7 +7,7 @@ A music recommendation system to recommend new musical artists to users based on
 
 Music Listening Dataset
 Audioscrobbler.com
-6 May 2005
+
 --------------------------------
 
 Data: http://www-etud.iro.umontreal.ca/~bergstrj/audioscrobbler_data.html
