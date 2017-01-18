@@ -22,13 +22,17 @@ http://creativecommons.org/licenses/by-nc-sa/1.0/
 Files
 -----
 
-user_artist_data.txt
-    3 columns: userid artistid playcount
+1. __user_artist_data.txt__ consisting of 3 columns
+ * userid 
+ * artistid 
+ * playcount
 
-artist_data.txt
-    2 columns: artistid artist_name
+2. __artist_data.txt__ consisting of 2 columns
+ * artistid 
+ * artist_name
 
-artist_alias.txt
-    2 columns: badid, goodid
+3. __artist_alias.txt__ consisting of 2 columns
+ * badid
+ * goodid
     
-'artist_alias.txt' consists of known incorrectly spelt artists and the correct artist id.
+_artist_alias.txt_ consists of known incorrectly spelt artists and the correct artist id.
